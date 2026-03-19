@@ -1,6 +1,6 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
-### Name: tamizh tharanya v
-### Reg no: 212224250018
+### Name: HEMIMA JASLIN V
+### Reg no: 212224250006
 ## AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
